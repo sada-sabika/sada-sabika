@@ -1,19 +1,19 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Sabika Zehra!</h1>
+<h1 align="center">Hi 👋‹, I'm Sabika Zehra!</h1>
 <h3 align="center">Aspiring Full Stack Engineer with grave interest and knowledge in programming and logic building. Striving to make an impact. ðŸš€</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sada-sabika&label=Profile%20views&color=0e75b6&style=flat" alt="sada-sabika" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sada-sabika" alt="sada-sabika" /></a> </p>
 
-- ðŸ”­ Iâ€™m currently working on **JavaScript, Python, React and Next.js**
+- 🔭­ I'm currently working on **JavaScript, Python, React and Next.js**
 
-- ðŸŒ± Iâ€™m currently learning **Flutter & Dart ðŸŽ¯**
+- 🌱 I'm currently learning **Flutter & Dart ðŸŽ¯**
 
-- ðŸ’¬ Ask me about **anything. Always eager to assist and collaborate with fellow programmers.**
+- 💬 Ask me about **anything. Always eager to assist and collaborate with fellow programmers.**
 
-- ðŸ“« How to reach me **sabikazehra77@gmail.com**
+- 📫 How to reach me **sabikazehra77@gmail.com**
 
-- âš¡ Fun fact **I think I'm smart and witty at the same time.**
+- ⚡ Fun fact **I think I'm smart and witty at the same time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
