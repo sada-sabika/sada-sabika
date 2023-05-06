@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋‹, I'm Sabika Zehra!</h1>
+<h1 align="center">Hi 👋, I'm Sabika Zehra!</h1>
 <h3 align="center">Aspiring Full Stack Engineer with grave interest and knowledge in programming and logic building. Striving to make an impact. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sada-sabika&label=Profile%20views&color=0e75b6&style=flat" alt="sada-sabika" /> </p>
